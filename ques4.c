@@ -9,8 +9,9 @@ int main() {
     scanf("%f", &radius);
 
     printf("Area: %.2f\n", M_PI * radius * radius);
-    printf("Circumference: %.2f\n", 2 * 2.14 * radius);
+    printf("Circumference: %.2f\n", 2 * 3.14 * radius);
 
     return 0;
 }
+
 
